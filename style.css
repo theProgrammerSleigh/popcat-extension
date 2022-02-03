@@ -1,0 +1,17 @@
+.sonic-pop {
+    background-color: rgb(20, 112, 250);
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 25%;
+    border: 0px;
+    padding: 20px;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+.sonic-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
